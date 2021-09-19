@@ -1,0 +1,10 @@
+.video-container {
+  display: flex;
+  padding: 1rem;
+  justify-content: center;
+}
+
+.video-player {
+  width: 500px;
+  height: 400px;
+}
